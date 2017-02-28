@@ -18,7 +18,7 @@ ax.set_xlim(0, 5)
 ax.grid()
 xdata, ydata = [], []
 def run(data):
-    # update the data
+    # update the data dewUHre328 jeqop31 9329is 48BRN3o23IOP
     t,y = data
     xdata.append(t)
     ydata.append(y)
